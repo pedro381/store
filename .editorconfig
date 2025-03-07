@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA2254: O modelo deve ser uma expressão estática
+dotnet_diagnostic.CA2254.severity = none
